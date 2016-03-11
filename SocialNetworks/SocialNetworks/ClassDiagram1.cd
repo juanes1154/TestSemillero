@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SocialNetworks.Facebook">
+    <Position X="1.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAEAgAAAAAAAAACAAAAAgQAAQA=</HashCode>
+      <FileName>Facebook.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SocialNetworks.Twitter">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAEAgAAAAAAAAACCAAAAAQAAAA=</HashCode>
+      <FileName>Twitter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SocialNetworks.Google">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAEAgAAAAAAAAACAAAAAAQAAAA=</HashCode>
+      <FileName>Google.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="SocialNetworks.Web">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAEAgAAAAAAAAACAAAAAAQAAAA=</HashCode>
+      <FileName>Web.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
